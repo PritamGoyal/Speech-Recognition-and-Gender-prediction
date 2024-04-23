@@ -20,7 +20,8 @@ Post-processing: Refine the transcription results, applying techniques such as l
 Output: Obtain the final transcribed text as the output of the speech recognition system.
 
 Speech recognition is used in various applications, including voice assistants, transcription services, and hands-free operation of devices.
-###**WHAT WE WILL COVER IN THIS PROJECT:**
+
+**WHAT WE WILL COVER IN THIS PROJECT:**
 
 **1) Speech Recognition-speech to text, text to speech and translation:**
 
